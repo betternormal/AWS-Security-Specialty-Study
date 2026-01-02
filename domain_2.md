@@ -1,5 +1,7 @@
 # Domain 2. Security Logging and Monitoring
 
+이 도메인은 단순히 "로그를 남긴다"는 것을 넘어, 로그를 안전하게 수집, 보호, 분석하고, 위협에 대해 자동화된 대응(Remediation)을 할 수 있는지를 묻습니다.
+
 ### **1. Monitoring & Metrics (감시 및 지표)**
 
 ### **Amazon CloudWatch**
